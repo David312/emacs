@@ -161,3 +161,4 @@
 ;; enable hungry-delete
 ;; (require 'hungry-delete)
 ;; (add-hook 'c-mode-hook 'hungry-delete-mode)
+;; la pinche wea de codigo esta chidito y funka
